@@ -1,0 +1,12 @@
+ /* Global Resets */
+ *{
+    box-sizing: border-box;
+    margin: 0; padding:0;
+ }
+
+ /* Layout Debug Utility: Red Outline */
+ /* Note: Only uncomment when in use */
+
+ /* *{
+    outline: 2px dotted red;
+ } */
